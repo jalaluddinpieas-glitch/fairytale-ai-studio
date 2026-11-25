@@ -1,2 +1,2 @@
-# Python dependencies for the starter workflow
+# Python dependencies
 Pillow>=10.0.0

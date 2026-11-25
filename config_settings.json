@@ -1,0 +1,9 @@
+{
+  "project_name": "Fairy Tale AI Studio",
+  "target_quality": "cinematic_stylized_3d",
+  "aspect_ratio": "16:9",
+  "frame_rate": 24,
+  "resolution": "1920x1080",
+  "default_scene_count": 7,
+  "video_backend": null
+}
