@@ -1,0 +1,17 @@
+{
+  "project": "Fairy Tale AI Studio",
+  "characters": [
+    {
+      "name": "Mira",
+      "role": "curious young mapmaker",
+      "fixed_design": "small adventurous traveler, teal cloak, copper compass, expressive eyes",
+      "continuity": "Keep face, body proportions, cloak, compass, and colors identical in every scene."
+    },
+    {
+      "name": "Bramble",
+      "role": "gentle forest guardian",
+      "fixed_design": "round moss-covered creature, tiny glowing seed pods, warm amber eyes",
+      "continuity": "Keep silhouette, moss texture, seed pods, eye color, and scale identical in every scene."
+    }
+  ]
+}
